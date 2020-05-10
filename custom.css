@@ -3,7 +3,7 @@
 }
 body {
 	color: rgba(255, 255, 255, .87);
-	background-color: #ffffff
+	background-color: #d2f5bc
 }
 * {
 	box-sizing: border-box
@@ -26,7 +26,7 @@ body {
 #myUL li a {
 	border: 1px solid #ddd;
 	margin-top: -1px;
-	background-color: #f50a0a;
+	background-color: #f6f6f6;
 	padding: 12px;
 	text-decoration: none;
 	font-size: 18px;
