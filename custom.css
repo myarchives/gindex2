@@ -26,11 +26,11 @@ body {
 #myUL li a {
 	border: 1px solid #ddd;
 	margin-top: -1px;
-	background-color: #f6f6f6;
+	background-color: #1a1717;
 	padding: 12px;
 	text-decoration: none;
 	font-size: 18px;
-	color: #000;
+	color: #f42828;
 	display: block
 }
 #myUL li a:hover:not(.header) {
